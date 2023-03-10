@@ -265,7 +265,7 @@
   color: #fff;
 }
 
-.staff__content {
+.staff__cards {
   max-width: 760px;
   margin: 68px auto 0px;
   padding-left: 0px;
@@ -470,6 +470,7 @@
 
 .footer__social-icon {
   width: 16px;
+  height: 16px;
 }
 
 .footer__copyright {
